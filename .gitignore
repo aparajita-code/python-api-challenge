@@ -1,2 +1,16 @@
 # Adding config.py file.
 api_keys.py
+
+
+# OpenWeatherMap API Key
+weather_api_key = "d14ee3f61fc19b1b3793df6059112143"
+
+# Geoapify API Key
+geoapify_key = "30e919a4621a483c906b3aa22121c0fa"
+
+
+VacationPy_Baseline.ipynb
+
+
+WeatherPy_Baseline.ipynb
+
